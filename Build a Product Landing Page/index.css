@@ -238,6 +238,6 @@ footer > ul li a {
   }
 
   #pricing .card:not(last-child) {
-    margin-right: 15px;
+    margin-right: 14px;
   }
 }
