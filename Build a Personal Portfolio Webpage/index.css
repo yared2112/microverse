@@ -9,6 +9,7 @@ body {
   background-repeat: no-repeat;
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
+  /* body fonts css */
 }
 
 body::-webkit-scrollbar { /* Chrome, Safari, Opera */
