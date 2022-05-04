@@ -84,7 +84,7 @@ h1, h2 {
   color: #000;
 }
 
-/*============= Welcoming ===============*/
+
 #welcome-section{
     width: 100%;
     min-height: 100vh;
@@ -98,7 +98,7 @@ h1, h2 {
   transform: scale(1.5);
 }
 
-/*============= projects ===============*/
+
 #projects {
   background-color: #fff;
   padding: 20px 0;
