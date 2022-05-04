@@ -35,7 +35,7 @@ h1, h2 {
     top: 0;
     left: 0;
     right: 0;
-  border-bottom: 2px solid #000;
+  border-bottom: 2px solid rgb(253, 252, 252);
       z-index: 5;
 }
 
@@ -81,7 +81,7 @@ h1, h2 {
 }
 
 .nav-content ul li a:hover {
-  color: #000;
+  color: rgb(253, 250, 250);
 }
 
 
